@@ -1,0 +1,21 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.streamlit/secrets.toml
+keys.py
+Check_prescription_*/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local environments and secrets
+.venv/
+venv/
+.env
+.env.*
+.streamlit/secrets.toml
